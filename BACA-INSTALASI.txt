@@ -10,7 +10,7 @@ A. Kebutuhan Sistem
 2. Kami menggunakan MongoDB Community Server 4.4.3.
 3. Kami juga menganjurkan untuk menggunakan Browser Google Chrome terbaru
    untuk tampilan lebih sempurna.
-4. Kami menganggap anda sudah paham Laravel 7 Dasar dan MongoDB Dasar.
+4. Kami menganggap anda sudah paham Laravel 8 Dasar dan MongoDB Dasar.
 5. Anda harus terhubung dengan internet untuk memanggil resources lainnya.
 6. Ready untuk instalasi pada cpanel Hosting, Silakan mengikuti panduan 
    masing-masing penyedia hosting.
@@ -23,7 +23,7 @@ B. Pengaturan .env
    DB_CONNECTION=mongodb
    DB_HOST=127.0.0.1
    DB_PORT=27017
-   DB_DATABASE=laravel7
+   DB_DATABASE=laravel8
    DB_USERNAME=
    DB_PASSWORD=
 
@@ -31,10 +31,10 @@ C. Menjalankan Program
 
 1. Start Apache.
 2. Start MongoDB Community Server.
-3. Extract crud-mongodb-laravel7.zip ke folder C:/xampp/htdoc/
-4. Buat Database baru : laravel7
-5. Jalankan : php artisan migrate atau php artisan migrate:fresh --seed
-6. Buka Browser, panggil via address : ttp://localhost/crud-mongodb-laravel7/public atau buat domain lokal anda.
+3. Extract crud-mongodb-laravel8.zip ke folder C:/xampp/htdoc/
+4. Buat Database baru : laravel8
+5. Jalankan : php artisan migrate atau php artisan migrate:fresh
+6. Buka Browser, panggil via address : ttp://localhost/crud-mongodb-laravel8/public atau buat domain lokal anda.
 
 C. Permission
 
