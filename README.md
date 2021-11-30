@@ -1,14 +1,10 @@
 # CRUD MongoDB Laravel 8
-Create Read Update and Delete with Laravel 8 using Database MongoDB
+Create Read Update and Delete with Laravel 8 using Database MongoDB 5.0
 
 ## Installation
-```sh
-git clone https://github.com/suendri/free-crud-mongodb-laravel8.git
-composer update
-php artisan migrate:fresh --seed
-```
+BACA-INSTALASI.txt
 
 ## Donation
-Please read BACA-DONASI.txt and BACA-INSTALASI.txt
+BACA-DONASI.txt
 
-![](screenshot3.jpg)
+![](screenshot.jpg)
